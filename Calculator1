@@ -17,4 +17,4 @@ try:
     else:
         print(f"{operator} is not a valid operator")
 except ZeroDivisionError:
-    print("Cannot be divide by zero")
+    print("Cannot divide by zero")
